@@ -1,10 +1,10 @@
 # Customer Segmentation using Unsupervised Clustering
-Lecturer : Him Soklong
+# Lecturer : Him Soklong
 Team Member :
 Chan Vannak  
 Soen Sopheap 
 Soukhey Nysa
-This project performs customer segmentation using unsupervised machine learning algorithms to identify distinct customer groups based on their attributes and behaviors.
+# This project performs customer segmentation using unsupervised machine learning algorithms to identify distinct customer groups based on their attributes and behaviors.
 
 ## Table of Contents
 
