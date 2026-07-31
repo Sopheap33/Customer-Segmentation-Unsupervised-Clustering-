@@ -1,5 +1,5 @@
 # Course: Machine Learning 
-# Project : Customer Segmentation using Unsupervised Clustering
+# Project : Customer Segmentation 
 # Lecturer : Him Soklong
 # Team Member :
 # Chan Vannak  
