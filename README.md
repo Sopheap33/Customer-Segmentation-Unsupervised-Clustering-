@@ -1,6 +1,6 @@
 # Customer Segmentation using Unsupervised Clustering
 # Lecturer : Him Soklong
-Team Member :
+# Team Member :
 Chan Vannak  
 Soen Sopheap 
 Soukhey Nysa
